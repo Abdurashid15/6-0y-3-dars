@@ -11,7 +11,10 @@ const GamePicker = () => {
     'Call of Duty: Warzone',
     'Dota 2',
     'Animal Crossing: New Horizons',
-    'Red Dead Redemption 2'
+    'Red Dead Redemption 2',
+    'Elden ring',
+    'Cuphead',
+    'Buckshot Roulette'
   ];
 
   const [selectedGame, setSelectedGame] = useState(null);

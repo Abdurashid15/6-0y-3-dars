@@ -1,3 +1,10 @@
 .Progress-Bar{
     margin: 50px;
 }
+.progress{
+        width: 700px;
+        height: 20px;
+        background-color: #f0f0f0;
+        border-radius: 10px;
+        overflow: hidden;
+}
